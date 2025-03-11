@@ -1,3 +1,6 @@
+android的大模型源码见这个目录：
+apps/Android/MnnLlmChat
+
 ![MNN](doc/banner.png)
 
 [中文版本](README_CN.md)
